@@ -16,3 +16,5 @@ Each of these 30 projects in the freeCodeCamp.org curriculum has its own agile u
 <a href="https://github.com/mlmariscotes/freeCodeCamp-Course-Project-2022/tree/main/(New)%20Responsive%20Web%20Design%20Certification/02-Learn%20Basic%20CSS%20by%20Building%20a%20Cafe%20Menu">02-Learn Basic CSS by Building a Cafe Menu</a>
 
 <a href="https://github.com/mlmariscotes/freeCodeCamp-Project-Solutions-2022/tree/main/(New)%20Responsive%20Web%20Design%20Certification/03-Learn%20CSS%20Colors%20by%20Building%20a%20Set%20of%20Colored%20Markers">03-Learn CSS Colors by Building a Set of Colored Markers</a>
+
+<a href="https://github.com/mlmariscotes/freeCodeCamp-Project-Solutions-2022/tree/main/(New)%20Responsive%20Web%20Design%20Certification/04-Learn%20HTML%20Forms%20by%20%20Building%20a%20Registration%20Form">04-Learn HTML Forms by  Building a Registration Form</a>
